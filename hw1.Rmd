@@ -1,0 +1,23 @@
+---
+title: 'Homework #1'
+author: "Tim Potter; tdpotter58"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+  Something I would consider to be data science is the study of advanced statistics in the sport of baseball, known as **Sabermetrics**. Teams use statasticians to study the trends of players on their team and around the league, such as the [Home Run Rate per Year](https://blogs.fangraphs.com/wp-content/uploads/2017/08/home-run-rate.png), in order to get a better understanding of the way the game is changing and how to better mold their team to win.
+ 
+
+```{r version}
+version
+```
+
+Git version == 2.20.1.windows.1
+Name = Tim
+Email = tdpotter58@gmail.com
+Github account = tdpotter58
