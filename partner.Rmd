@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Michael Bardfield mjb627
+Uploaded there hw1. eeba512
+Able to see owner's hw1.
+Familiarize yourself with Git/GitHub.
